@@ -29,3 +29,6 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+
+[![Build Status](https://dev.azure.com/TailspinTestMeow/TailspinMeow/_apis/build/status/DarienTLOD.mslearn-tailspin-spacegame-web?branchName=azure-pipelines)](https://dev.azure.com/TailspinTestMeow/TailspinMeow/_build/latest?definitionId=1&branchName=azure-pipelines)
